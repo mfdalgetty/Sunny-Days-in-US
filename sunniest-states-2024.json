@@ -1,0 +1,206 @@
+[
+  {
+    "state": "Alabama",
+    "AverageAnnualSunlight": 4660
+  },
+  {
+    "state": "Alaska",
+    "AverageAnnualSunlight": null
+  },
+  {
+    "state": "Arizona",
+    "AverageAnnualSunlight": 5755
+  },
+  {
+    "state": "Arkansas",
+    "AverageAnnualSunlight": 4725
+  },
+  {
+    "state": "California",
+    "AverageAnnualSunlight": 5050
+  },
+  {
+    "state": "Colorado",
+    "AverageAnnualSunlight": 4960
+  },
+  {
+    "state": "Connecticut",
+    "AverageAnnualSunlight": 3988
+  },
+  {
+    "state": "Delaware",
+    "AverageAnnualSunlight": 4232
+  },
+  {
+    "state": "Florida",
+    "AverageAnnualSunlight": 4859
+  },
+  {
+    "state": "Georgia",
+    "AverageAnnualSunlight": 4661
+  },
+  {
+    "state": "Hawaii",
+    "AverageAnnualSunlight": null
+  },
+  {
+    "state": "Idaho",
+    "AverageAnnualSunlight": 4251
+  },
+  {
+    "state": "Illinois",
+    "AverageAnnualSunlight": 4380
+  },
+  {
+    "state": "Indiana",
+    "AverageAnnualSunlight": 4318
+  },
+  {
+    "state": "Iowa",
+    "AverageAnnualSunlight": 4331
+  },
+  {
+    "state": "Kansas",
+    "AverageAnnualSunlight": 4890
+  },
+  {
+    "state": "Kentucky",
+    "AverageAnnualSunlight": 4383
+  },
+  {
+    "state": "Louisiana",
+    "AverageAnnualSunlight": 4725
+  },
+  {
+    "state": "Maine",
+    "AverageAnnualSunlight": 3815
+  },
+  {
+    "state": "Maryland",
+    "AverageAnnualSunlight": 4267
+  },
+  {
+    "state": "Massachusetts",
+    "AverageAnnualSunlight": 3944
+  },
+  {
+    "state": "Michigan",
+    "AverageAnnualSunlight": 4018
+  },
+  {
+    "state": "Minnesota",
+    "AverageAnnualSunlight": 3968
+  },
+  {
+    "state": "Mississippi",
+    "AverageAnnualSunlight": 4693
+  },
+  {
+    "state": "Missouri",
+    "AverageAnnualSunlight": 4545
+  },
+  {
+    "state": "Montana",
+    "AverageAnnualSunlight": 3847
+  },
+  {
+    "state": "Nebraska",
+    "AverageAnnualSunlight": 4685
+  },
+  {
+    "state": "Nevada",
+    "AverageAnnualSunlight": 5296
+  },
+  {
+    "state": "New Hampshire",
+    "AverageAnnualSunlight": 3891
+  },
+  {
+    "state": "New Jersey",
+    "AverageAnnualSunlight": 4056
+  },
+  {
+    "state": "New Mexico",
+    "AverageAnnualSunlight": 5642
+  },
+  {
+    "state": "New York",
+    "AverageAnnualSunlight": 3904
+  },
+  {
+    "state": "North Carolina",
+    "AverageAnnualSunlight": 4466
+  },
+  {
+    "state": "North Dakota",
+    "AverageAnnualSunlight": 3925
+  },
+  {
+    "state": "Ohio",
+    "AverageAnnualSunlight": 4139
+  },
+  {
+    "state": "Oklahoma",
+    "AverageAnnualSunlight": 4912
+  },
+  {
+    "state": "Oregon",
+    "AverageAnnualSunlight": 3830
+  },
+  {
+    "state": "Pennsylvania",
+    "AverageAnnualSunlight": 3939
+  },
+  {
+    "state": "Rhode Island",
+    "AverageAnnualSunlight": 3989
+  },
+  {
+    "state": "South Carolina",
+    "AverageAnnualSunlight": 4624
+  },
+  {
+    "state": "South Dakota",
+    "AverageAnnualSunlight": 4332
+  },
+  {
+    "state": "Tennessee",
+    "AverageAnnualSunlight": 4486
+  },
+  {
+    "state": "Texas",
+    "AverageAnnualSunlight": 5137
+  },
+  {
+    "state": "Utah",
+    "AverageAnnualSunlight": 4887
+  },
+  {
+    "state": "Vermont",
+    "AverageAnnualSunlight": 3826
+  },
+  {
+    "state": "Virginia",
+    "AverageAnnualSunlight": 4354
+  },
+  {
+    "state": "Washington",
+    "AverageAnnualSunlight": 3467
+  },
+  {
+    "state": "West Virginia",
+    "AverageAnnualSunlight": 4146
+  },
+  {
+    "state": "Wisconsin",
+    "AverageAnnualSunlight": 4023
+  },
+  {
+    "state": "Wyoming",
+    "AverageAnnualSunlight": 4471
+  },
+  {
+    "state": "United States",
+    "AverageAnnualSunlight": 4410.25
+  }
+]
